@@ -12,7 +12,6 @@
     "@types/node": "^16.7.1"
   },
   "dependencies": {
-    "@types/ffi-napi": "^4.0.4",
-    "ffi-napi": "^4.0.3"
+    "il2cpp": "file:../il2cpp-js"
   }
 }
